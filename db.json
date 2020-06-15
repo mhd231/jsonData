@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "afif",
+      "umur": "24",
+      "alamat": "pekalongan",
+      "nohp": "08888888888"
+    },
+    {
+      "id": 2,
+      "name": "bayu",
+      "umur": "31",
+      "alamat": "bandung",
+      "nohp": "08211212121"
+    },
+    {
+      "id": 3,
+      "name": "andi",
+      "umur": "23",
+      "alamat": "jakarta",
+      "nohp": "089879087090"
+    },
+    {
+      "id": 4,
+      "name": "joko",
+      "umur": "18",
+      "alamat": "jepara",
+      "nohp": "082241445322"
+    },
+    {
+      "id": 5,
+      "name": "kara",
+      "umur": "20",
+      "alamat": "pekalongan",
+      "nohp": "0844531089876"
+    },
+    {
+      "id": 6,
+      "name": "dani",
+      "umur": "19",
+      "alamat": "surabaya",
+      "nohp": "089879081324"
+    },
+    {
+      "id": 7,
+      "name": "putri",
+      "umur": "22",
+      "alamat": "bekasi",
+      "nohp": "089879213077"
+    },
+    {
+      "id": 8,
+      "name": "salwa",
+      "umur": "19",
+      "alamat": "bandung",
+      "nohp": "0867599017689"
+    },
+    {
+      "id": 9,
+      "name": "muhammad",
+      "umur": "25",
+      "alamat": "jakarta",
+      "nohp": "08987342342342"
+    },
+    {
+      "id": 10,
+      "name": "azka",
+      "umur": "23",
+      "alamat": "brebes",
+      "nohp": "0877762184320"
+    },
+    {
+      "id": 11,
+      "name": "budi",
+      "umur": "24",
+      "alamat": "balikpapan",
+      "nohp": "0844214314335"
+    },
+    {
+      "id": 12,
+      "name": "taufiq",
+      "umur": "21",
+      "alamat": "pontianak",
+      "nohp": "0898790432380"
+    },
+    {
+      "id": 13,
+      "name": "agus",
+      "umur": "27",
+      "alamat": "demak",
+      "nohp": "0898123986790"
+    }
+  ]
+}
